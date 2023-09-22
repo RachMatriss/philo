@@ -180,6 +180,11 @@ Or like this:
     if (died)
        return ;
 
+##  Linux OS Tests
+![alt text](test00.png)
+![alt text](5_8.png)
+![alt text](4_4.png)
+![alt text](last_test.png)
 ##  Optimization
 
 1. **Locking granularity**:
